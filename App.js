@@ -39,7 +39,7 @@ const Container = styled.View`
 const SideBar = styled.View`
     width: 300px;
     height: 100%;
-    padding: 1rem;
+    padding: 10px;
     background-color: white;
 `;
 
